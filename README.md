@@ -7,8 +7,19 @@ A discord verification captcha bot with images involved! This bot was created wi
 - [x] **Fill out the stuff in the top and bottom of index.js**
 
 # ✅ Discord Captcha Bot
-A discord bot that verifies you into the server!
 
+A discord bot that verifies you into the server!
+Open in Autocode
+================
+
+To add an Open in Autocode button to your GitHub repository,
+simply copy and paste the following code anywhere into README.md
+
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+
+Enjoy!
+  - Standard Library Team
+  
 # ⌨️ Commands
 | Commands  | Description |
 | ------------- | ------------- |
